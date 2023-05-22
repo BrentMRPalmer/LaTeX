@@ -1,0 +1,37 @@
+\documentclass[12pt, twocolumn]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+
+\title{The Greatest Title in the World}
+% pick title name as the argument
+
+\author{Brent Palmer\thanks{uOttawa for scholarship}\\uOttawa \and Jane Doe\thanks{email: jdoe@carleton.edu}\\Carleton University}
+% \and to add another author
+% \\ puts subsequent text directly under the previous element
+% thanks{} makes a footnote and uses a symbol instead of a number
+
+\date{\today}
+% \date{} puts no date (nothing)
+% but if date is not there at all, it
+% will automaticlly put todays date
+% date{\today} puts todays date
+
+\begin{document}
+
+\maketitle % Make the title specified above here
+
+% Two ways to make an abstract
+
+% 1) \abstract{This is my abstract}
+
+% 2)
+\begin{abstract}
+	\lipsum[7]
+\end{abstract}
+
+\section{Introduction}
+
+\lipsum[1-6]
+
+\end{document}

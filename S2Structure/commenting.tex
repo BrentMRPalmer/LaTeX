@@ -1,0 +1,44 @@
+\documentclass[]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{comment}
+
+\title{Commenting}
+\author{Brent Palmer}
+\date{May 22, 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Use the '\%' to write comment
+
+% \lipsum[1] 
+% \lipsum[1] no longer displays
+
+\lipsum[2] % This is the first paragraph
+
+\iffalse
+
+\lipsum[3-6]
+
+\lipsum[7-8]
+
+\fi
+
+% everything between '\iffalse' and '\fi' is ignored
+
+\begin{comment}
+
+\lipsum[3-6]
+
+\lipsum[7-8]
+
+\end{comment}
+
+% everything between '\begin{comment}' and 
+% 'end{comment}' is ignored
+
+\end{document}
