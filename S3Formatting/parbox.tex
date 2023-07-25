@@ -1,0 +1,27 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+Some very large random text that will not fit somewhere easily, it might be a table, it might be next to an equation.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|c|c|}
+	\hline 
+		Text & \parbox{.25\textwidth}{\centering Some very large random text that will not fit somewhere easily, it might be a table, it might be next to an equation.} \\\hline
+	\end{tabular}
+	\caption{Caption}
+	\label{tab:my_label}
+\end{table}
+
+\begin{align*}
+	\left.\begin{array}{c}
+		x + y = 10\\
+		x - y = 5
+	\end{array}\right\} \quad \Rightarrow \quad \text{\parbox{5cm}{Some very large random text that will not fit somewhere easily, it might be a table, it might be next to an equation.}}
+\end{align*}
+
+
+\end{document}
