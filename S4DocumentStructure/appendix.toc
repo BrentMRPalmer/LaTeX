@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Model}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Small Model}{4}{}%
+\contentsline {section}{\numberline {2}Data}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Specific Data}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Random Data}{4}{}%
+\contentsline {subsection}{\numberline {2.3}General Data}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}General Special Data}{5}{}%
+\contentsline {paragraph}{Base Case}{5}{}%
+\contentsline {subparagraph}{Base Case Extended}{6}{}%
+\contentsline {section}{\numberline {A}Data Explained}{7}{}%

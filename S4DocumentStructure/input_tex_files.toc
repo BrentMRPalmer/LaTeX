@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Model}{2}{}%
+\contentsline {section}{\numberline {2}Data}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Small Model}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Specific Data}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Random Data}{3}{}%
+\contentsline {subsection}{\numberline {2.4}General Data}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}General Special Data}{4}{}%
+\contentsline {paragraph}{Base Case}{4}{}%
+\contentsline {subparagraph}{Base Case Extended}{4}{}%
+\contentsline {section}{\numberline {3}Model}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Small Model}{9}{}%
+\contentsline {section}{\numberline {4}Data}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Specific Data}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Random Data}{9}{}%
+\contentsline {subsection}{\numberline {4.3}General Data}{10}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}General Special Data}{10}{}%
+\contentsline {paragraph}{Base Case}{10}{}%
+\contentsline {subparagraph}{Base Case Extended}{11}{}%
+\contentsline {section}{\numberline {5}Data Explained}{12}{}%

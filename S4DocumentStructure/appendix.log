@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=latex 2023.7.31)  31 JUL 2023 15:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./appendix.tex
+(appendix.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-05-15>
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.st
+y
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3key
+s2e\l3keys2e.sty
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.s
+ty
+Package: expl3 2023-05-15 L3 programming layer (loader) 
+
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
+end-dvips.def
+File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count193
+\l__pdf_backend_content_box=\box52
+\l__pdf_backend_model_box=\box53
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+\g__pdf_backend_link_sf_int=\count196
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count197
+\l__lipsum_a_int=\count198
+\l__lipsum_b_int=\count199
+
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.lt
+d.tex))
+(C:\Users\Brent Palmer\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendi
+x.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count266
+\c@@ppsavesec=\count267
+\c@@ppsaveapp=\count268
+) (appendix.aux)
+\openout1 = `appendix.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+ [1
+
+] (appendix.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `appendix.toc'.
+
+ [2
+
+] [3
+
+] [4] [5] [6] [7
+
+] (appendix.aux) ) 
+Here is how much of TeX's memory you used:
+ 1049 strings out of 476411
+ 22617 string characters out of 5785799
+ 1857842 words of memory out of 5000000
+ 21457 multiletter control sequences out of 15000+600000
+ 519084 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,11n,77p,266b,297s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on appendix.dvi (7 pages, 14728 bytes).
