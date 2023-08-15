@@ -1,0 +1,73 @@
+\documentclass[12pt, twoside]{article}
+
+\usepackage[a4paper, margin = 1 in, head = 1 in, foot = 0.7 in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{enumitem}
+
+\title{Enumerated and Bullet Points}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+	\lipsum[1]
+\end{abstract}
+
+\section{Introduction to the text}
+
+lipsum[1]
+
+\section{Lists}
+
+\begin{itemize}[label = {+}]
+	\item one element
+	\item another element
+	\item the last element
+	\item and here another list
+	\begin{itemize}
+		\item one thing
+		\item another thing
+		\item and another one
+	\end{itemize}
+	\item the final element
+\end{itemize}
+
+\clearpage
+
+\begin{itemize}[label = {+}]
+	\item one element
+	\item another element
+	\item the last element
+	\item and here another list
+	\begin{itemize}
+		\item one thing
+		\item another thing
+		\item and another one
+	\end{itemize}
+	\item the final element
+\end{itemize}
+
+\clearpage
+
+\begin{enumerate} [label = \Alph*]
+	\item one element
+	\item another element
+	\item the last element
+	\item and here another list
+	\begin{enumerate}
+		\item one thing
+		\item another thing
+		\item and another one
+		\begin{enumerate}
+			\item one thing
+			\item another thing
+			\item and another one
+		\end{enumerate}
+	\end{enumerate}
+	\item the final element
+\end{enumerate}
+
+
+\end{document}

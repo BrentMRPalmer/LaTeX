@@ -1,0 +1,36 @@
+\documentclass[12pt, twoside]{article}
+
+\usepackage[a4paper, margin = 1 in, head = 1 in, foot = 0.7 in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{enumitem}
+
+\begin{document}
+
+
+\lipsum[1] \\
+
+\textbf{Now here there is a list of elements}
+
+\begin{enumerate}[topsep=1in, itemsep=0.5in, leftmargin=1in, rightmargin=1in, labelsep=0.1in]
+	% \setlength{\itemsep}{1in}
+	\item first line
+	\item second line
+	\item \lipsum[2]
+	\item fourth line
+\end{enumerate}
+
+\textbf{Now here there is another list of elements}
+
+\begin{enumerate}[topsep=1in, itemindent=1in]
+	\item first line
+	\item second line
+	\item \lipsum[3]
+	\item fourth line
+\end{enumerate}
+
+\lipsum[3]
+
+\lipsum[4]
+
+\end{document}

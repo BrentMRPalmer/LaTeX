@@ -1,0 +1,65 @@
+\documentclass[12pt, twoside]{article}
+
+\usepackage[a4paper, margin = 1 in, head = 1 in, foot = 0.7 in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{fancybox}
+\usepackage{tcolorbox}
+
+\title{Quotations and Boxes}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+	\lipsum[1]
+\end{abstract}
+
+\section{Introduction to the text}
+
+\lipsum[2]
+
+\begin{quote}
+	\textit{
+		\lipsum[3]
+	}
+\end{quote}
+
+This is an example of text --- please ignore what it means --- what it says has no relevance whatsoever.
+
+\framebox{This is an example text to be framed.} If we add more text it is going to be out of the box. 
+
+\doublebox{This is an example text to be framed.}
+
+\shadowbox{This is an example text to be framed.}
+
+\ovalbox{This is an example text to be framed.}
+
+\Ovalbox{This is an example text to be framed.}
+
+\noindent\fbox{
+	\parbox{\textwidth}
+	{\lipsum[4]}
+}
+
+\lipsum[4]
+
+\clearpage
+
+\thisfancypage{
+	\setlength{\fboxsep}{10pt}
+	\setlength{\shadowsize}{5pt}
+	\shadowbox
+}{}
+\lipsum[6-10]
+
+\clearpage
+
+\begin{tcolorbox}[title = Definition, colback = green!10, colframe = green!20, coltext = black!90, coltitle = black]
+	\lipsum[11]
+\end{tcolorbox}
+
+
+
+\end{document}
